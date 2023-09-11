@@ -9,14 +9,12 @@
 
 🔭 I’m currently working on [software development](https://github.com/Dinesh6304/Dinesh6304)
 
-🌱 I’m currently learning **mern stack,SpringBoot,LLD**
+🌱 I’m currently learning **Python full stack and Cloud Technologies**
 
 👯 I’m looking to collaborate on **open source projects**
 
 🤝 I’m looking for help with **software Engineering**
 
-👨‍💻 All of my projects are available  [Here](https://github.com/karthik8611)
+👨‍💻 All of my projects are available  [Here](https://github.com/Dinesh6304?tab=projects)
 
-<!--📝 I regularly write articles on [Medium](https://medium.com/@mkarthik6768)-->
-
-💬 Ask me about **Java**
+💬 Ask me about **Python,AWS,Linux**
