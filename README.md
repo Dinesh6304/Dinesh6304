@@ -17,4 +17,4 @@
 
 👨‍💻 All of my projects are available  [Here](https://github.com/Dinesh6304?tab=projects)
 
-💬 Ask me about **Python,AWS,Linux**
+💬 Ask me about **Python,SQL,AWS,Linux**
